@@ -1,14 +1,14 @@
 
 - 👋 Olá, me chamo Luiz 
-- 👀 Estou interessado em aprender Python e .NET
-- 🌱 Atualmente estou estudando sobre Python e .NET
+- 👀 Estou interessado em aprender React e java
+- 🌱 Atualmente estou estudando sobre React e java
 - 📫 No email "luizfilipe.almeidalf2@gmail.com" é possivel me contatar
 - Até logo!
 
 
 
 - 👋 Hi, I’m Luiz
-- 👀 I’m interested in Python and.NET
-- 🌱 I’m currently learning Python and .NET
+- 👀 I’m interested in React and java
+- 🌱 I’m currently learning React and java
 - 📫 For contact "luizfilipe.almeidalf2@gmail.com"
 - See you soon!
